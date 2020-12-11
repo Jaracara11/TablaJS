@@ -1,0 +1,31 @@
+.rowtitle {
+    background: rgb(49, 165, 45);
+    color: white;
+    font-size: 20px!important;
+    padding: 17px;
+    text-align: left;
+}
+
+.row1 {
+    background: rgb(235, 235, 235);
+    padding: 17px;
+    text-align: left;
+    color: rgb(0, 32, 116);
+}
+
+.row2 {
+    background: rgb(223, 223, 223);
+    padding: 17px;
+    text-align: left;
+    color: rgb(0, 32, 116);
+}
+
+.ms-WPBody th {
+    font-weight: normal!important;
+}
+
+#tablestyle {
+    width: 70%;
+    margin-top: 15px;
+    margin-left: 105px;
+}
